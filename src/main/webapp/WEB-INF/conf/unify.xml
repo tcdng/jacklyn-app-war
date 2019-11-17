@@ -34,6 +34,7 @@
             <value>luna</value>
             <value>europa</value>
 		</property>
+        <property name="application.session.timeout" value="900" />
 		<property name="application.command.interface.enabled" value="true" />
 		<property name="application.command.interface.port" value="7081" />
         <property name="application.web.home" value="/application/home" />
@@ -43,7 +44,6 @@
             <value>http://localhost:7010</value>
             <value>http://192.168.56.101:7010</value>
 		</property>
-		<property name="application.web.session.timeout" value="900" />
         <property name="application.web.document.stylesheet">
             <value>$t{css/jacklyn.css}</value>
         </property>

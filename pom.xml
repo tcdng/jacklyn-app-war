@@ -4,7 +4,7 @@
 	<groupId>com.tcdng.jacklyn</groupId>
 	<artifactId>jacklyn-app-war</artifactId>
 	<packaging>war</packaging>
-	<version>1.0.1</version>
+	<version>1.1.0</version>
 	<name>jacklyn-app-war</name>
 	<description>Jacklyn Web Application</description>
 

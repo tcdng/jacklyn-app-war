@@ -10,7 +10,7 @@ mvn clean package
 ```
  
 ### Quick Run
-* Download an already assembled deployable package [here](https://github.com/tcdng/jacklyn-app-war/releases/download/1.1.0/jacklyn.war).
+* Download an already assembled deployable package [here](https://github.com/tcdng/jacklyn-app-war/releases/download/1.1.1/jacklyn.war).
 * Deploy downloaded WAR file into suitable web server.
 * Open a browser and enter `http://localhost:[Port Number]/jacklyn` into the address bar.
 * Login with login ID 'SYSTEM' and password 'system'.

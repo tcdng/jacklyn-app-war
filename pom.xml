@@ -4,7 +4,7 @@
 	<groupId>com.tcdng.jacklyn</groupId>
 	<artifactId>jacklyn-app-war</artifactId>
 	<packaging>war</packaging>
-	<version>1.1.2-SNAPSHOT</version>
+	<version>1.1.3-SNAPSHOT</version>
 	<name>jacklyn-app-war</name>
 	<description>Jacklyn Web Application</description>
 
@@ -22,8 +22,8 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.6</maven.compiler.source>
         <maven.compiler.target>1.6</maven.compiler.target>
-        <jacklyn.version>1.1.2-SNAPSHOT</jacklyn.version>
-        <unify.version>1.1.2-SNAPSHOT</unify.version>
+        <jacklyn.version>1.1.3-SNAPSHOT</jacklyn.version>
+        <unify.version>1.1.3-SNAPSHOT</unify.version>
     </properties>
 
 	<build>
